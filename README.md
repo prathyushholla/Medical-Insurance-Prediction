@@ -8,4 +8,4 @@ The dataset was obtained from kaggle. The link to the dataset is here - https://
 In the notebook, first part involves visualization of how the data is distributed. The second part has the code for implementing the algorithm, comparing the model and getting the final results.
 
 ### Perfomance 
-R-squared score was used as a metric to evaluate the perfomance of the model. For comparison the model was compared to the standard and optimized KNN regressor from the sklearn library and trained and tested on the same dataset. The perfomance of both the models was found to be the same. 
+R-squared score was used as a metric to evaluate the perfomance of the model. The implemented model acheived an r-squared score of 0.83022. For comparison the model was compared to the standard and optimized KNN regressor from the sklearn library and trained and tested on the same dataset. The perfomance of both the models was found to be the same. 
